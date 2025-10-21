@@ -1,0 +1,1 @@
+This prototype demonstrates an end-to-end machine learning system for detecting cloud service anomalies, identifying their root causes, and simulating automated mitigation responses. It’s built to emulate how AI could help cloud providers quickly diagnose and respond to operational issues such as network failures or CPU spikes. 85% accurate.
